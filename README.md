@@ -122,10 +122,6 @@ A physical prototype was also assembled on a breadboard using the required elect
 
 ![Proteus Simulation](Images/proteus-simulation.png)
 
-### Circuit Diagram
-
-![Circuit Diagram](Images/circuit-diagram.png)
-
 ### System Flowchart
 
 ![System Flowchart](Images/system-flowchart.png)
